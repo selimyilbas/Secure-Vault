@@ -1,6 +1,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/selimyilbas/Secure-Vault)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-yellow)
 ![Python](https://img.shields.io/badge/python-3-yellow)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/selimyilbas/Secure-Vault)
 ![GitHub last commit](https://img.shields.io/github/last-commit/selimyilbas/Secure-Vault)
