@@ -1,6 +1,21 @@
+# Ignore macOS system files
 .DS_Store
-.DS_Store
-node_modules/
-.env
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore IDE files
 .vscode/
-dist/
+.idea/
+
+# Ignore build outputs
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+
+# Ignore logs
+*.log
